@@ -1,39 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0A66C2&height=200&section=header&text=Hi,%20I'm%20Qamar%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20·%20Laravel%20Specialist&descAlignY=58&descSize=18&descColor=e5e7eb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0A66C2&height=230&section=header&text=Muhammad%20Qamar%20Zaman&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Laravel%20Developer%20|%20PHP%20|%20AI%20Integration&descAlignY=54&descSize=16&descColor=e2e8f0&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=I+Build+Scalable+Web+Solutions+That+Deliver+Results;Laravel+%2B+PHP+%2B+REST+APIs+%2B+AI+Integration;Turning+Complex+Ideas+Into+User-Friendly+Products&font=Fira+Code&center=true&width=640&height=45&color=58A6FF&vCenter=true&size=20&pause=1300" alt="Typing SVG"/>
 
 <br>
 
-<a href="https://qamarzaman.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/mqamarzaman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/qamardevs"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://qamarzaman.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge" /></a>
+<a href="https://qamarzaman.vercel.app/about.html"><img src="https://img.shields.io/badge/About-0F172A?style=for-the-badge" /></a>
+<a href="https://qamarzaman.vercel.app/services.html"><img src="https://img.shields.io/badge/Services-0F172A?style=for-the-badge" /></a>
+<a href="https://qamarzaman.vercel.app/blog.html"><img src="https://img.shields.io/badge/Blog-0F172A?style=for-the-badge" /></a>
+<a href="https://qamarzaman.vercel.app/contact.html"><img src="https://img.shields.io/badge/Contact-16A34A?style=for-the-badge" /></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=qamardevs&label=Profile%20Views&color=111827&style=for-the-badge" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/mqamarzaman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/qamardevs"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:qamarsprofessional@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+923170061921"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=qamardevs&label=Profile%20Views&color=0F172A&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Available_for_Remote_Work-16A34A?style=for-the-badge" />
 
 </div>
 
 <br>
 
-## ✨ About Me
+## 🧑‍💻 About Me
 
-I'm a **Full-Stack Web Developer** who turns ideas into polished, practical digital products — with **Laravel + PHP** as my core, backed by modern frontend engineering, databases, REST APIs, and thoughtful UI/UX.
+I'm a **Full Stack Laravel Developer** based in **Garden Town, Lahore, Pakistan**, specializing in **SEO, PHP, Laravel, REST APIs, AI Integration, MySQL, and JavaScript** — helping businesses launch scalable web applications, AI-powered tools, and conversion-focused websites with clean architecture and dependable performance.
 
-I care about more than "it works." I build things that are **simple to use, easy to maintain, and genuinely valuable** to the people using them.
+From product strategy to deployment, I turn complex ideas into user-friendly digital experiences that support growth, improve workflows, and strengthen a brand's online presence.
 
-```text
-Understand → Build → Test → Refine → Ship → Repeat
-```
+<div align="center">
 
-- 🚀&nbsp; Building modern websites and custom web applications
-- ⚙️&nbsp; Specializing in **Laravel & PHP** development
-- 🎨&nbsp; Crafting clean, responsive, conversion-focused interfaces
-- 🔗&nbsp; Designing REST APIs and third-party integrations
-- 🤖&nbsp; Exploring practical, AI-powered web experiences
-- 📈&nbsp; Shipping fast, SEO-friendly digital products
-- 🧩&nbsp; Translating business requirements into real, working solutions
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🚀 50+
+**Projects Completed**
+
+</td>
+<td align="center" width="25%">
+
+### 🤝 30+
+**Happy Clients**
+
+</td>
+<td align="center" width="25%">
+
+### 🕒 8+
+**Years Experience**
+
+</td>
+<td align="center" width="25%">
+
+### ⭐ 100%
+**Client Satisfaction**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
@@ -41,7 +73,7 @@ Understand → Build → Test → Refine → Ship → Repeat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,git,github,postman,vscode&theme=dark" alt="Tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vuejs,bootstrap,tailwind,php,laravel,mysql,redis,docker,aws,git,github,postman,vscode,linux&theme=dark&perline=9" />
 
 </div>
 
@@ -49,62 +81,96 @@ Understand → Build → Test → Refine → Ship → Repeat
 
 <div align="center">
 
-| Layer | Technologies |
+| Category | Technologies |
 |:---|:---|
-| **Frontend** | HTML5 · CSS3 · JavaScript · Bootstrap |
+| **Frontend** | HTML5 · CSS3 · JavaScript · Vue.js · Bootstrap · Tailwind CSS |
 | **Backend** | PHP · Laravel |
-| **Database** | MySQL |
-| **APIs** | REST APIs · Third-Party Integrations |
-| **AI** | AI API Integrations · AI-Powered Features |
-| **Growth** | SEO · Performance Optimization · Responsive UX |
-| **Workflow** | Git · GitHub · Postman · VS Code |
+| **Database** | MySQL · Redis |
+| **APIs & Payments** | REST API Development · Stripe API |
+| **AI** | OpenAI · AI Integration · LLM-Powered Tools |
+| **DevOps & Cloud** | Docker · AWS · Linux · Git |
+| **SEO & Growth** | Technical SEO · Performance Optimization |
 
 </div>
 
 <br>
 
-## 🚀 What I Build
+## 📈 Expertise Breakdown
+
+*A curated set of technologies I use to build fast, scalable, and intelligent PHP solutions.*
+
+<div align="center">
+
+**HTML / CSS / JS** — Pixel-perfect interfaces with modern standards, responsive layouts, and accessible UX
+`███████████████████░` 95%
+
+**PHP & Laravel** — Enterprise-level backend solutions with clean architecture and maintainable structures
+`████████████████████░` 92%
+
+**REST API Development** — Secure, documented, high-performance APIs for seamless communication
+`██████████████████░░░` 90%
+
+**Git & Version Control** — Clean workflows, branching strategies, effective team collaboration
+`██████████████████░░░` 90%
+
+**SQL & Databases** — Optimized databases, efficient queries, structured data modelling
+`█████████████████░░░░` 88%
+
+**SEO Optimization** — Technical SEO improvements, content strategy, ranking optimization
+`█████████████████░░░░` 87%
+
+**AI Integration** — Chatbots, automation systems, and LLM-powered applications
+`█████████████████░░░░` 85%
+
+**DevOps & Cloud** — Docker, Linux servers, cloud platforms, deployment workflows
+`████████████████░░░░░` 82%
+
+</div>
+
+<br>
+
+## 🚀 Services
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🌐 Business Websites
-Modern, credible websites that give businesses a stronger digital presence.
+### 🌐 Web Development
+*Most Requested*
 
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Web Applications
-Custom platforms engineered around real, specific business workflows.
+Modern, responsive websites and powerful web applications built with Laravel and modern development practices — from planning and UI implementation to deployment.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛒 E-Commerce
-Clean, conversion-focused shopping experiences with custom functionality.
+### 🔌 API Development
+Robust REST APIs and custom integrations designed for reliability, security, and smooth communication between platforms and services.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔌 APIs & Integrations
-Reliable REST APIs and seamless integrations between services.
+### 🤖 AI Integration
+Intelligent AI solutions including chatbots, LLM-powered tools, and automation workflows that improve efficiency and user experience.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 AI-Powered Features
-Practical AI integrations that solve real product and business problems.
+### 📈 SEO Optimization
+Technical SEO audits, optimization strategies, and content improvements designed to increase visibility, rankings, and organic growth.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔄 Website Modernization
-Rebuilding older websites with modern UI, UX, performance, and stack.
+### ✍️ Content Creation
+Clear, engaging content and visuals that communicate ideas, explain products, and help brands connect with the right audience.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤝 Team Collaboration
+Agile collaboration, code reviews, and structured project workflows that support efficient teamwork and product delivery.
 
 </td>
 </tr>
@@ -112,7 +178,7 @@ Rebuilding older websites with modern UI, UX, performance, and stack.
 
 <br>
 
-## 🏗️ Selected Projects
+## 🏗️ Featured Projects
 
 <table width="100%">
 <tr>
@@ -121,11 +187,23 @@ Rebuilding older websites with modern UI, UX, performance, and stack.
 ### 🧬 [AgePulse](https://agepulse.vercel.app/)
 **Real-time age calculator & life analytics platform**
 
-Goes beyond age calculation — live age updates, birthday intelligence, astrology, numerology, biorhythm, historical birth context, future projections, life statistics, and shareable profile cards.
+Goes beyond calculating age — live age updates, birthday intelligence, astrology, numerology, biorhythm, historical birth context, future projections, life statistics, and shareable profile cards.
 
 `Web App` `Analytics` `JavaScript` `AI`
 
 </td>
+<td width="50%" valign="top">
+
+### 🩸 LifeFlow
+**Blood donation management platform**
+
+A web-based platform with authentication, donor-focused workflows, and a responsive interface designed to make blood donation management easier.
+
+`Laravel` `PHP` `MySQL` `Bootstrap`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📝 BlogByQamar
@@ -136,26 +214,66 @@ A modern blogging experience built around clean presentation, readable content, 
 `Blogging` `Web Development` `Content`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🩸 LifeFlow
-**Blood donation management platform**
+### 🛒 Multi-Vendor E-Commerce Platform
+**Laravel marketplace with payments & inventory**
 
-A full-featured platform with authentication, donor-focused workflows, and a responsive interface built to simplify blood donation management.
+Feature-rich marketplace with Stripe payments, real-time inventory, vendor dashboards, and order management.
 
-`Laravel` `PHP` `MySQL` `Bootstrap`
+`Laravel 13` `MySQL` `Stripe` `Bootstrap`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 🧵 Tailor Management System
-**Custom business management solution**
+<details>
+<summary><b>🔍 More Projects on My Portfolio</b></summary>
+<br>
 
-A practical platform built around tailoring workflows — customers, orders, measurements, and everyday operations, all in one place.
+| Project | Description | Stack |
+|---|---|---|
+| 🏥 **Hospital Management System** | Complete HMS with appointment booking, patient records, billing, and role-based access for doctors, nurses, and admin | `PHP` `Laravel` `MySQL` `jQuery` |
+| 🎓 **Online Learning Platform** | LMS with video courses, quiz engine, progress tracking, certificates, and integrated payment gateway | `Laravel` `Vue.js` `MySQL` `FFmpeg` |
+| 🔗 **RESTful SaaS API** | Fully documented REST API with JWT auth, rate limiting, versioning, webhooks, and Swagger docs | `Laravel` `JWT` `Swagger` `Redis` |
+| 🤖 **AI Chatbot Integration** | Custom GPT-powered chatbot embedded in a SaaS dashboard with context memory and API endpoints | `OpenAI` `Laravel` `Redis` `WebSockets` |
+| 📦 **Logistics Tracking API** | Real-time shipment tracking API integrating with FedEx, DHL, and custom carriers with webhook notifications | `Laravel` `REST API` `MySQL` `Chart.js` |
+| 📈 **SEO Optimization** | Technical SEO, keyword research, on-page optimization, and performance enhancements that drive organic traffic | `Technical` `On-Page` `Keyword` `GTAG` |
+| ✍️ **AI Content Writing** | Engaging, SEO-friendly content for websites, blogs, landing pages, and product descriptions with AI-powered tools | `ChatGPT` `Claude` `Gemini` `Proofreading` |
+| 🎬 **AI Video & Content Creation** | High-quality AI-generated videos & digital content using Veo, Flow, Runway & CapCut | `Veo` `Flow` `Runway` `AI Editing` |
 
-`Laravel` `PHP` `MySQL` `Business Software`
+[**→ View Full Project Portfolio**](https://qamarzaman.vercel.app/projects.html)
+
+</details>
+
+<br>
+
+## 🎯 How I Work
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 01 · Discover
+I dive into your goals, users, and constraints so we have clarity before coding starts and planning.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 02 · Architect
+I plan the system, database, APIs, and component structure before development begins.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 03 · Build
+Sprint-based development with daily updates, clean commits, and continuous delivery.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 04 · Launch
+QA testing, deployment, optimization, tuning, and post-launch monitoring for stability.
 
 </td>
 </tr>
@@ -163,50 +281,95 @@ A practical platform built around tailoring workflows — customers, orders, mea
 
 <br>
 
-## 🎯 Development Philosophy
-
-> **Quality over quantity.**
-
-Good software shouldn't just look impressive — it should solve the right problem, well.
-
-**Understand the problem → Plan the solution → Build cleanly → Test properly → Refine the experience → Deliver value.**
-
-<br>
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qamardevs&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Qamar's GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamardevs&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0d1117&title_color=58a6ff" alt="Qamar's most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qamardevs&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamardevs&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0d1117&title_color=58a6ff" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qamardevs&hide_border=true&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Qamar's GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qamardevs&hide_border=true&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qamardevs&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Qamar's contribution graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qamardevs&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="90%" />
 
 </div>
 
 <br>
 
-## 🤝 Let's Build Something Useful
+## 💬 Client Testimonials
 
-Whether it's a **business website, custom web application, Laravel project, API, e-commerce platform, or a full website modernization** — I'm always up for meaningful work.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+> *"Qamar translated our requirements into a polished product quickly, with a clean interface that our team adopted from day one."*
+>
+> **— Jane D.**, CEO
+
+</td>
+<td width="50%" valign="top">
+
+> *"The development process felt organized and transparent, and the final build solved the workflow issues that had been slowing us down."*
+>
+> **— Harsh P.**, Product Designer
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> *"Our Laravel platform now loads faster, converts better, and is much easier for our internal team to manage every day."*
+>
+> **— Ayesha R.**, CEO
+
+</td>
+<td width="50%" valign="top">
+
+> *"The AI integration was practical instead of gimmicky, and it gave our customers quicker answers without adding support overhead."*
+>
+> **— Daniel K.**, Product Designer
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Have an idea? Let's turn it into something real.
-
-<a href="https://qamarzaman.vercel.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/></a>
-<a href="https://www.linkedin.com/in/mqamarzaman/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-
-<br><br>
-
-<sub>Building useful things, one line of code at a time. 🚀</sub>
+**23,000+ customers have shared their feedback**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111827&height=100&section=footer" width="100%"/>
+<br>
+
+## 📬 Get In Touch
+
+<div align="center">
+
+Open to work and collaborations — let's build something great and impactful together.
+
+| | |
+|:---|:---|
+| 📧 **Email** | [qamarsprofessional@gmail.com](mailto:qamarsprofessional@gmail.com) |
+| 📞 **Phone** | [+92 317 006 1921](tel:+923170061921) |
+| 📍 **Location** | [Garden Town, Lahore, Pakistan](https://maps.google.com/?q=Lahore,Pakistan) |
+| 🟢 **Status** | Available for Remote Work |
+
+<br>
+
+<a href="https://qamarzaman.vercel.app/contact.html"><img src="https://img.shields.io/badge/Start_a_Project-16A34A?style=for-the-badge" /></a>
+<a href="https://qamarzaman.vercel.app/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mqamarzaman/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br><br>
+
+### Let's build something extraordinary together. 🚀
+
+<sub>© 2026 Muhammad Qamar Zaman · Building useful things, one line of code at a time.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
